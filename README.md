@@ -8,6 +8,7 @@ The platform enables environmental researchers, conservation agencies, policymak
 
 ---
 🎥 Demo Video
+![Demo](Demo.mp4)
 
 ▶️ Watch the full demonstration here:
 
@@ -16,55 +17,37 @@ https://youtu.be/kTpW4BvvRnE
 📸 Project Screenshots
 
 🏠 Home Page
-
 ![home page](home_page.png)
+
 🌍 Interactive Biodiversity Map
-
-![SHAP Values](SHAP value.png)
-
+![interactive_map](interactive_map.png)
 
 📊 Regional Biodiversity Analysis
-
-
-
+![region_analysis](region_analysis.png)
 
 🔬 Ecosystem Assessment Dashboard
-
-
-
+![analysis](analysis.png)
 
 ⚠ Biodiversity Early Warning Alerts
-
-
-
+![alert](alert.png)
 
 🌱 Conservation Strategy Recommendations
-
-
-
+![strategy_points](strategy_points.png)
 
 🌡 Climate Change Impact Simulator
-
-
-
+![climate_change_simulator](climate_change_simulator.png)
 
 📄 Automated Report Generation
-
-
-
+![generate_report](generate_report.png)
 
 📑 Summary Report Generation
-
-
-
+![generate_summary_report](generate_summary_report.png)
 
 🔍 Explainable AI (SHAP Analysis)
-
 ![SHAP Values](SHAP value.png)
 
 🎯 Sustainable Development Goals Impact
-
-
+![SDG_impact](SDG_impact)
 
 
 BioGuard AI is an advanced biodiversity monitoring and ecosystem intelligence platform that leverages Artificial Intelligence, Machine Learning, Explainable AI (XAI), geospatial visualization, and conservation analytics to identify biodiversity risks before irreversible ecosystem degradation occurs.
