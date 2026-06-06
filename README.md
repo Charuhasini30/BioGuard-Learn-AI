@@ -44,7 +44,7 @@ https://youtu.be/kTpW4BvvRnE
 ![generate_summary_report](generate_summary_report.png)
 
 🔍 Explainable AI (SHAP Analysis)
-![SHAPvalue](SHAPvalue.png)
+![SHAP%20value](SHAP%20value.png)
 
 🎯 Sustainable Development Goals Impact
 ![SDG_impact](SDG_impact.png)
