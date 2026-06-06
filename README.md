@@ -44,10 +44,10 @@ https://youtu.be/kTpW4BvvRnE
 ![generate_summary_report](generate_summary_report.png)
 
 🔍 Explainable AI (SHAP Analysis)
-![SHAP Values](SHAP value.png)
+![SHAP Values](SHAP%value.png)
 
 🎯 Sustainable Development Goals Impact
-![SDG_impact](SDG_impact)
+![SDG_impact](SDG_impact.png)
 
 
 BioGuard AI is an advanced biodiversity monitoring and ecosystem intelligence platform that leverages Artificial Intelligence, Machine Learning, Explainable AI (XAI), geospatial visualization, and conservation analytics to identify biodiversity risks before irreversible ecosystem degradation occurs.
