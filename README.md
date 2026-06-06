@@ -8,7 +8,6 @@ The platform enables environmental researchers, conservation agencies, policymak
 
 ---
 🎥 Demo Video
-![Demo.mp4](Demo.mp4)
 
 ▶️ Watch the full demonstration here:
 
