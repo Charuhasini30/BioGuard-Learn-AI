@@ -11,7 +11,7 @@ The platform enables environmental researchers, conservation agencies, policymak
 
 ▶️ Watch the full demonstration here:
 
-[https://youtu.be/kTpW4BvvRnE](https://youtu.be/UtvMpS5E58U)
+https://youtu.be/UtvMpS5E58U
 
 📸 Project Screenshots
 
